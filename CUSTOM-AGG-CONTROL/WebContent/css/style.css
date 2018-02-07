@@ -1,0 +1,21 @@
+.myCustTile{
+	border: 2px solid skyblue;
+	width :100px;
+	height:132px;
+	background-color:#81a9ea;
+	 border-radius: 25%;
+	
+}
+.img{
+	
+	width:200px;
+	 border-radius: 50%;
+	 width:100px;
+	 height:100px;
+}
+.btn{
+	width:200px;
+	text-align:center;
+	font-weight:bold;
+	  text-shadow: 2px 2px skyblue;
+}

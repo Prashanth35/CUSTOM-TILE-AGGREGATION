@@ -1,0 +1,11 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="custom-agg-control.main" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:st="control">
+	<Page title="Title">
+		<content>
+		<HBox>
+	<st:standardtile />
+	<st:standardtile  />
+	</HBox>
+		</content>
+	</Page>
+</core:View>
